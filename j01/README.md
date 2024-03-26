@@ -1,7 +1,6 @@
 ## Lightroom Masking Tool
 
-
-Giovanni DiSalvo, March 15 2024
+DiSalvo Giovanni, March 15 2024
 
 I use [Adobe's Lightroom](https://en.wikipedia.org/wiki/Adobe_Lightroom) to upload and edit photos. One of the great features of Lightroom is to be able to mask a certain part of the image using the built-in masking feature which allows you to make adjustments to one part of the photo, rather than the whole photo.
 

@@ -12,7 +12,7 @@ Here is what the mask menu looks like.
 ![](Capture.JPG)
 <br>
 
-Now it is common when I am trying to brush on a light mask I can’t see where the mask is being applied to unless I select it or even change the exposure of the mask dramatically to see where it is. Now this is where we can demonstrate an application of **“Matching between system and the real world”** , which is a [usability guidline](https://www.nngroup.com/articles/ten-usability-heuristics/) for using concepts in the real world that helps us make interfaces **learnable**.
+Now it is common when I am trying to brush on a light mask I can’t see where the mask is being applied to unless I select it or even change the exposure of the mask dramatically to see where it is. Now this is where we can demonstrate an application of **“Matching between system and the real world”** , which is a [usability guidline](https://www.nngroup.com/articles/ten-usability-heuristics/) for using concepts in the real world that helps us make interfaces **learnable**. This interface demonstrates this application well, because the filter menu does a great job of giving a list of common attributes all editors and photographers are familiar, along with individual sliders accompanying the individual attributes. These are also all encased in sub categories, such as "Light", "Color", "Effects", and "Detail" which makes it easy to find what you are looking for, rather than using jargon that only people that are extremely familiar with the app would be able to use.
 
 <br>
 

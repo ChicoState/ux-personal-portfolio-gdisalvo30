@@ -31,8 +31,8 @@ Now this was a big annoyance I had with the software so I went on to Google and 
 The highlighted toggle button also does the same trick as the shortcut, but it should be much clearer what this toggle button does. I suggest maybe extending that bar a little bit just to give small text or clues as to what the toggle does.
 
 Highlighted mask:
-</br>
+<br>
 
 ![](Capture3.JPG)
-</br>
+<br>
 
